@@ -6,6 +6,7 @@
 1. First, [download Python 3.x.x (And 2.x.x)](https://www.python.org/downloads/)
 
 2. Install the file
+  2.a. on a Mac - navigate to the applications>Python3.x> run - "Install Certificates.command"
 
 3. Next, [download the latest RobotPy release Zip file](https://github.com/robotpy/robotpy-wpilib/releases)
 
@@ -17,7 +18,7 @@
 6. Under the interpreter - Browse to: `C:/Python27/python.exe`.
 
 7. Run the file, type in `pip install pyfrc`
-*If on Mac, just use that same command in the terminal.*
+*If on Mac, just use that same command in the terminal but say `pip3`.*
 
 8. After that, navigate to the command prompt(or terminal if on Mac)
 
