@@ -6,7 +6,8 @@
 1. First, [download Python 3.x.x (And 2.x.x)](https://www.python.org/downloads/)
 
 2. Install the file
-(on a Mac - navigate to the applications>Python3.x> run - "Install Certificates.command")
+
+- after installation on a Mac - navigate to the applications>Python3.x> run - "Install Certificates.command")
 
 3. Next, [download the latest RobotPy release Zip file](https://github.com/robotpy/robotpy-wpilib/releases)
 
