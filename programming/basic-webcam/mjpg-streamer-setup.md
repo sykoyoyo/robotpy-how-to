@@ -6,7 +6,7 @@
 
 2. Type `py -3 installer.py --download-opkg mjpg-streamer`
 
-3. Connect to robot wifi and type `py -3 installer.py --install-opkg mjpg-streamer`
+3. Connect to robot wifi and type `py -3 installer.py --install-opkg mjpg-streamer` (or on mac) `python3 installer.py install-opkg mjpg-streamer`
 
 4. Reboot system with webcam plugged in on a USB port. The stream will, by default, be at `ROBOT_IP_ADDRESS:5800` where `ROBOT_IP_ADDRESS` could be 10.44.80.2
 
